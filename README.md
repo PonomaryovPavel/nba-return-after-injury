@@ -132,6 +132,3 @@ jupyter lab analysis.ipynb
 
 Предыдущая работа по этим же данным — сколько игровых дней стоит травма:
 [nba-injury-cost](https://github.com/PonomaryovPavel/nba-injury-cost).
-
-Продолжение по этим же данным — сроки возвращения в состав после тяжёлой травмы:
-[nba-return-after-injury](https://github.com/PonomaryovPavel/nba-return-after-injury).
